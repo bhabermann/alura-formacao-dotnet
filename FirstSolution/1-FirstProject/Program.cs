@@ -10,6 +10,10 @@ namespace _1_FirstProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+
+            Console.WriteLine("The execution ends here");
+            Console.ReadLine();
         }
     }
 }
